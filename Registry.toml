@@ -1,0 +1,6 @@
+name = "ReSolverRegistry"
+uuid = "1f67d619-c97e-4ec2-a5d7-4be415f23049"
+repo = "git@github.com:The-ReSolver/ReSolverRegistry.git"
+description = "Governing registry for the ReSolver packages (available at www.github.com/The-ReSolver)"
+
+[packages]
