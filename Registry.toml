@@ -4,6 +4,7 @@ repo = "git@github.com:The-ReSolver/ReSolverRegistry.git"
 description = "Governing registry for the ReSolver packages (available at www.github.com/The-ReSolver)"
 
 [packages]
+28eb41cd-435a-4ede-8bdb-f2685fc03e8c = { name = "FDGrids", path = "F/FDGrids" }
 333ac5fb-9ca8-4109-ae2c-88ac1dd5ecab = { name = "PoissonSolver", path = "P/PoissonSolver" }
 54c0c897-3bff-4ba2-acae-d4c1acf2c14a = { name = "Fields", path = "F/Fields" }
 5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
