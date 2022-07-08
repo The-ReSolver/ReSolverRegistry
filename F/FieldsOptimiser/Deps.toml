@@ -1,0 +1,7 @@
+[0]
+FDGrids = "28eb41cd-435a-4ede-8bdb-f2685fc03e8c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NSOperators = "9e6e3dc4-3794-4628-a4fe-4c0206dc1536"
+OptimKit = "77e91f04-9b3b-57a6-a776-40b61faaebe0"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Projector = "abfb4c27-6a5b-4fca-8a0e-91ede93db49a"
