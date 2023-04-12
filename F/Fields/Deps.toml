@@ -8,3 +8,6 @@ FDGrids = "28eb41cd-435a-4ede-8bdb-f2685fc03e8c"
 ["0.6-0"]
 IniFile = "83e8ac13-25f8-5344-8a64-a9f2b223428f"
 Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+
+["0.7-0"]
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
