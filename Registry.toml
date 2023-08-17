@@ -15,3 +15,4 @@ description = "Governing registry for the ReSolver packages (available at www.gi
 a304cb5d-36c1-49b8-9a39-a4be8ac85cf4 = { name = "FieldsOptimiser", path = "F/FieldsOptimiser" }
 a8d363ce-860c-11ea-26b8-f7d5a45d10c5 = { name = "NKRoots", path = "N/NKRoots" }
 abfb4c27-6a5b-4fca-8a0e-91ede93db49a = { name = "Projector", path = "P/Projector" }
+e97b5281-e633-4c46-86d2-72ea63110c3f = { name = "DAESolve", path = "D/DAESolve" }
