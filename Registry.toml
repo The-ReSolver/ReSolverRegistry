@@ -9,6 +9,7 @@ description = "Governing registry for the ReSolver packages (available at www.gi
 333ac5fb-9ca8-4109-ae2c-88ac1dd5ecab = { name = "PoissonSolver", path = "P/PoissonSolver" }
 54c0c897-3bff-4ba2-acae-d4c1acf2c14a = { name = "Fields", path = "F/Fields" }
 5c307136-fb89-411d-b568-fbf16049e5ad = { name = "ChebUtils", path = "C/ChebUtils" }
+6106e973-e982-47b2-ae8d-956f34fd3e5a = { name = "OptimWrapper", path = "O/OptimWrapper" }
 701a43e8-2c5a-11e9-2d86-e5d483bb0ff0 = { name = "GMRES", path = "G/GMRES" }
 8e664b2d-fea9-4945-a6a3-91764c96093d = { name = "ResolventAnalysis", path = "R/ResolventAnalysis" }
 9e6e3dc4-3794-4628-a4fe-4c0206dc1536 = { name = "NSOperators", path = "N/NSOperators" }

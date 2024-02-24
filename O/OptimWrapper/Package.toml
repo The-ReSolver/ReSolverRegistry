@@ -1,0 +1,3 @@
+name = "OptimWrapper"
+uuid = "6106e973-e982-47b2-ae8d-956f34fd3e5a"
+repo = "git@github.com:The-ReSolver/OptimWrapper.jl"
