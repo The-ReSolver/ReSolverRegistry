@@ -1,6 +1,0 @@
-[0]
-Fields = "54c0c897-3bff-4ba2-acae-d4c1acf2c14a"
-PoissonSolver = "333ac5fb-9ca8-4109-ae2c-88ac1dd5ecab"
-
-["0-0.1.0"]
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
